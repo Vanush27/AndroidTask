@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="error">Internet</string>
+    <string name="text_name">Michelle Reed</string>
+    <string name="text_description">Model living in Los Angeles.Follow me for premium content and join me on all of my adventures!</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="followers"> <b> <font fgcolor="#050505">768 </font> </b> \n <font fgcolor='#d4d4d4'> followers </font> </string>
+    <string name="following"><b><font fgcolor='#050505'>34</font></b>  \n <font fgcolor='#d4d4d4'> following </font></string>
+    <string name="name">jenifer83</string>
+
+</resources>
